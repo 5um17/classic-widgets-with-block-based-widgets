@@ -2,7 +2,7 @@
 Contributors: 5um17
 Tags: classic widgets, gutenberg widgets, disable gutenberg, block-based-widgets
 Requires at least: 5.8
-Tested up to: 6.1.1
+Tested up to: 6.7.1
 Requires PHP: 7.0
 Stable tag: 1.0.1
 License: GPLv3
@@ -16,6 +16,9 @@ Sometimes, you need to use the classic widget screen for some of the widgets wit
 
 **NOTE:-**
 This plugin uses WordPress filters to create a new classic widget screen. That means it will work as long as WordPress supports the Classic Widgets screen.
+
+= Links =
+* [GitHub repository](https://github.com/5um17/classic-widgets-with-block-based-widgets)
 
 == Installation ==
 

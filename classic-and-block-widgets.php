@@ -1,14 +1,22 @@
 <?php
 /**
+ * Classic Widgets with Block-based Widgets
+ *
+ * @package CBW
+ * @author 5um17
+ *
+ * @wordpress-plugin
  * Plugin Name: Classic Widgets with Block-based Widgets
  * Plugin URI: https://www.secretsofgeeks.com/
  * Description: Restore the classic widgets screen as a new menu item without replacing new block-based widgets.
  * Version: 1.0.1
+ * Requires at least: 5.8
+ * Requires PHP: 7.0
  * Author: 5um17
  * Author URI: https://www.secretsofgeeks.com
+ * License: GPLv3
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain: classic-widgets-with-block-based-widgets
- *
- * @package CBW
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
